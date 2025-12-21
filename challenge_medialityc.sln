@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ApiMedialityc_training", "ApiMedialityc_training", "{2126F8AF-9340-485C-7576-F4881373E135}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiMmedialityc_training", "ApiMedialityc_training\ApiMmedialityc_training.csproj", "{0AD7DDA6-062F-0A86-2CE1-B4E831CE0A2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AD7DDA6-062F-0A86-2CE1-B4E831CE0A2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AD7DDA6-062F-0A86-2CE1-B4E831CE0A2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AD7DDA6-062F-0A86-2CE1-B4E831CE0A2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AD7DDA6-062F-0A86-2CE1-B4E831CE0A2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0AD7DDA6-062F-0A86-2CE1-B4E831CE0A2C} = {2126F8AF-9340-485C-7576-F4881373E135}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90EBAA1B-9023-4280-B8FF-E8B8537556BF}
+	EndGlobalSection
+EndGlobal

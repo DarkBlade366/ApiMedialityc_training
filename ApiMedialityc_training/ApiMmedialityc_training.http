@@ -1,0 +1,6 @@
+@ApiMmedialityc_training_HostAddress = http://localhost:5230
+
+GET {{ApiMmedialityc_training_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
