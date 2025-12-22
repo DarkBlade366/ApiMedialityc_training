@@ -17,7 +17,7 @@ namespace ApiMedialityc_training.Features.Users.Validations
 
             RuleFor(x => x.Emails)
                 .NotEmpty().WithMessage("Debe tener al menos un correo")
-                .Must(list => list.All(e => e.Contains("@")))
+                .Must(list => list.All(e => e.Email.Contains("@")))
                 .WithMessage("Todos los correos deben ser válidos");
 
             RuleFor(x => x.Phones)

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiMmedialityc_training")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c084fb65055b5e2a4f794904794eec1d1c3cc8c4")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiMmedialityc_training")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiMmedialityc_training")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

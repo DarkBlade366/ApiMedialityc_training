@@ -23,7 +23,7 @@ namespace ApiMedialityc_training.Features.Users.Endpoints
         {
             Post("/users");
             Validator<CreateUserValidator>();
-            AllowAnonymous(); // Temporal, luego cambia por roles
+            Roles("Admin");
         }
 
         public override async Task HandleAsync(CreateUserRequestDto req, CancellationToken ct)

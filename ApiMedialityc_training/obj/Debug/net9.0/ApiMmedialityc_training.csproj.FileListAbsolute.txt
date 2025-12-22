@@ -13,6 +13,7 @@ D:\Workspace\!!PROYECTOS GRANDES\!in progress\challenge_medialityc\ApiMedialityc
 D:\Workspace\!!PROYECTOS GRANDES\!in progress\challenge_medialityc\ApiMedialityc_training\bin\Debug\net9.0\FluentValidation.dll
 D:\Workspace\!!PROYECTOS GRANDES\!in progress\challenge_medialityc\ApiMedialityc_training\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
 D:\Workspace\!!PROYECTOS GRANDES\!in progress\challenge_medialityc\ApiMedialityc_training\bin\Debug\net9.0\Humanizer.dll
+D:\Workspace\!!PROYECTOS GRANDES\!in progress\challenge_medialityc\ApiMedialityc_training\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\Workspace\!!PROYECTOS GRANDES\!in progress\challenge_medialityc\ApiMedialityc_training\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
 D:\Workspace\!!PROYECTOS GRANDES\!in progress\challenge_medialityc\ApiMedialityc_training\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
 D:\Workspace\!!PROYECTOS GRANDES\!in progress\challenge_medialityc\ApiMedialityc_training\bin\Debug\net9.0\Microsoft.Build.Locator.dll
@@ -27,6 +28,12 @@ D:\Workspace\!!PROYECTOS GRANDES\!in progress\challenge_medialityc\ApiMedialityc
 D:\Workspace\!!PROYECTOS GRANDES\!in progress\challenge_medialityc\ApiMedialityc_training\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
 D:\Workspace\!!PROYECTOS GRANDES\!in progress\challenge_medialityc\ApiMedialityc_training\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
 D:\Workspace\!!PROYECTOS GRANDES\!in progress\challenge_medialityc\ApiMedialityc_training\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Workspace\!!PROYECTOS GRANDES\!in progress\challenge_medialityc\ApiMedialityc_training\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Workspace\!!PROYECTOS GRANDES\!in progress\challenge_medialityc\ApiMedialityc_training\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Workspace\!!PROYECTOS GRANDES\!in progress\challenge_medialityc\ApiMedialityc_training\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Workspace\!!PROYECTOS GRANDES\!in progress\challenge_medialityc\ApiMedialityc_training\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Workspace\!!PROYECTOS GRANDES\!in progress\challenge_medialityc\ApiMedialityc_training\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Workspace\!!PROYECTOS GRANDES\!in progress\challenge_medialityc\ApiMedialityc_training\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
 D:\Workspace\!!PROYECTOS GRANDES\!in progress\challenge_medialityc\ApiMedialityc_training\bin\Debug\net9.0\Microsoft.OpenApi.dll
 D:\Workspace\!!PROYECTOS GRANDES\!in progress\challenge_medialityc\ApiMedialityc_training\bin\Debug\net9.0\Mono.TextTemplating.dll
 D:\Workspace\!!PROYECTOS GRANDES\!in progress\challenge_medialityc\ApiMedialityc_training\bin\Debug\net9.0\Namotion.Reflection.dll
@@ -49,6 +56,7 @@ D:\Workspace\!!PROYECTOS GRANDES\!in progress\challenge_medialityc\ApiMedialityc
 D:\Workspace\!!PROYECTOS GRANDES\!in progress\challenge_medialityc\ApiMedialityc_training\bin\Debug\net9.0\System.Composition.Hosting.dll
 D:\Workspace\!!PROYECTOS GRANDES\!in progress\challenge_medialityc\ApiMedialityc_training\bin\Debug\net9.0\System.Composition.Runtime.dll
 D:\Workspace\!!PROYECTOS GRANDES\!in progress\challenge_medialityc\ApiMedialityc_training\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\Workspace\!!PROYECTOS GRANDES\!in progress\challenge_medialityc\ApiMedialityc_training\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
 D:\Workspace\!!PROYECTOS GRANDES\!in progress\challenge_medialityc\ApiMedialityc_training\bin\Debug\net9.0\YamlDotNet.dll
 D:\Workspace\!!PROYECTOS GRANDES\!in progress\challenge_medialityc\ApiMedialityc_training\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
 D:\Workspace\!!PROYECTOS GRANDES\!in progress\challenge_medialityc\ApiMedialityc_training\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
@@ -123,6 +131,7 @@ D:\Workspace\!!PROYECTOS GRANDES\!in progress\challenge_medialityc\ApiMedialityc
 D:\Workspace\!!PROYECTOS GRANDES\!in progress\challenge_medialityc\ApiMedialityc_training\obj\Debug\net9.0\ApiMmedialityc_training.csproj.CoreCompileInputs.cache
 D:\Workspace\!!PROYECTOS GRANDES\!in progress\challenge_medialityc\ApiMedialityc_training\obj\Debug\net9.0\ApiMmedialityc_training.MvcApplicationPartsAssemblyInfo.cs
 D:\Workspace\!!PROYECTOS GRANDES\!in progress\challenge_medialityc\ApiMedialityc_training\obj\Debug\net9.0\ApiMmedialityc_training.MvcApplicationPartsAssemblyInfo.cache
+D:\Workspace\!!PROYECTOS GRANDES\!in progress\challenge_medialityc\ApiMedialityc_training\obj\Debug\net9.0\ApiMmedialityc_training.sourcelink.json
 D:\Workspace\!!PROYECTOS GRANDES\!in progress\challenge_medialityc\ApiMedialityc_training\obj\Debug\net9.0\rjimswa.dswa.cache.json
 D:\Workspace\!!PROYECTOS GRANDES\!in progress\challenge_medialityc\ApiMedialityc_training\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 D:\Workspace\!!PROYECTOS GRANDES\!in progress\challenge_medialityc\ApiMedialityc_training\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
@@ -137,3 +146,4 @@ D:\Workspace\!!PROYECTOS GRANDES\!in progress\challenge_medialityc\ApiMedialityc
 D:\Workspace\!!PROYECTOS GRANDES\!in progress\challenge_medialityc\ApiMedialityc_training\obj\Debug\net9.0\ApiMmedialityc_training.pdb
 D:\Workspace\!!PROYECTOS GRANDES\!in progress\challenge_medialityc\ApiMedialityc_training\obj\Debug\net9.0\ApiMmedialityc_training.genruntimeconfig.cache
 D:\Workspace\!!PROYECTOS GRANDES\!in progress\challenge_medialityc\ApiMedialityc_training\obj\Debug\net9.0\ref\ApiMmedialityc_training.dll
+D:\Workspace\!!PROYECTOS GRANDES\!in progress\challenge_medialityc\ApiMedialityc_training\bin\Debug\net9.0\BCrypt.Net-Next.dll
